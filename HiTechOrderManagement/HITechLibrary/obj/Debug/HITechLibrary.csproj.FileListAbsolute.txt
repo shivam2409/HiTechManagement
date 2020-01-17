@@ -1,0 +1,5 @@
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HITechLibrary\bin\Debug\HITechLibrary.dll
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HITechLibrary\bin\Debug\HITechLibrary.pdb
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HITechLibrary\obj\Debug\HITechLibrary.dll
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HITechLibrary\obj\Debug\HITechLibrary.pdb
+C:\Users\Shivam Patel\source\repos\HITechOrderManagement\HITechLibrary\obj\Debug\HITechLibrary.csprojAssemblyReference.cache

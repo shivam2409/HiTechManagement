@@ -1,0 +1,16 @@
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\obj\Debug\HiTechOrderApp.csprojAssemblyReference.cache
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\obj\Debug\HiTechOrderApp.Properties.Resources.resources
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\obj\Debug\HiTechOrderApp.UserLogIn.resources
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\obj\Debug\HiTechOrderApp.csproj.GenerateResource.cache
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\bin\Debug\HiTechOrderApp.exe.config
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\bin\Debug\HiTechOrderApp.exe
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\bin\Debug\HiTechOrderApp.pdb
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\obj\Debug\HiTechOrderApp.exe
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\obj\Debug\HiTechOrderApp.pdb
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\obj\Debug\HiTechOrderApp.GUI.ManagerForm.resources
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\bin\Debug\HITechLibrary.dll
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\bin\Debug\HITechLibrary.pdb
+C:\Users\Shivam Patel\source\repos\HiTechOrderManagement\HiTechOrderApp\obj\Debug\HiTechOrderApp.csproj.CopyComplete
+C:\Users\Shivam Patel\source\repos\HITechOrderManagement\HiTechOrderApp\obj\Debug\HiTechOrderApp.GUI.SalesManager.resources
+C:\Users\Shivam Patel\source\repos\HITechOrderManagement\HiTechOrderApp\obj\Debug\HiTechOrderApp.GUI.InventoryForm.resources
+C:\Users\Shivam Patel\source\repos\HITechOrderManagement\HiTechOrderApp\obj\Debug\HiTechOrderApp.GUI.OrderForm.resources
